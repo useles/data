@@ -2,23 +2,19 @@
   "categories":[
     {
     "id": 1,
-    "name": "game",
-    "color": "0xFFFFFFFF"
+    "name": "game"
     },
     {
     "id": 2,
-    "name": "song",
-    "color": "0xFFFFFFFF"
+    "name": "song"
     },
     {
     "id": 3,
-    "name": "movie",
-    "color": "0xFFFFFFFF"
+    "name": "movie"
     },
     {
     "id": 4,
-    "name": "logo",
-    "color": "0xFFFFFFFF" 
+    "name": "logo"
     }
   ]
 }
