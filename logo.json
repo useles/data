@@ -4,28 +4,44 @@
      "id": 1,
      "title": "mahmoud",
      "description": "asdasdasdasdasd",
-     "answer": "kjsdnfksdjfn",
+     "answer": 1,
+     "choice1": "callof",
+     "choice2": "clash",
+     "choice3": "car",
+     "choice4": "gta",
      "pic":"asdasdasdasdasd"
     },
     {
      "id": 2,
      "title": "mahmoud",
      "description": "asdasdasdasdasd",
-     "answer": "kjsdnfksdjfn",
+     "answer": 2,
+     "choice1": "callof",
+     "choice2": "clash",
+     "choice3": "car",
+     "choice4": "gta",      
      "pic":"asdasdasdasdasd"
     },
     {
      "id": 3,
      "title": "mahmoud",
      "description": "asdasdasdasdasd",
-     "answer": "kjsdnfksdjfn",
+     "answer": 3,
+     "choice1": "callof",
+     "choice2": "clash",
+     "choice3": "car",
+     "choice4": "gta",      
      "pic":"asdasdasdasdasd"
     },
     {
      "id": 4,
      "title": "mahmoud",
      "description": "asdasdasdasdasd",
-     "answer": "kjsdnfksdjfn",
+     "answer": 4,
+     "choice1": "callof",
+     "choice2": "clash",
+     "choice3": "car",
+     "choice4": "gta",      
      "pic":"asdasdasdasdasd"
     }
   ]
