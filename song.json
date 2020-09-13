@@ -4,44 +4,28 @@
      "id": 1,
      "title": "mahmoud",
      "description": "asdasdasdasdasd",
-     "answer": 1,
-     "choice1": "callof",
-     "choice2": "clash",
-     "choice3": "car",
-     "choice4": "gta",
+     "answer": "asdadd",
      "pic":"asdasdasdasdasd"
     },
     {
      "id": 2,
      "title": "mahmoud",
      "description": "asdasdasdasdasd",
-     "answer": 2,
-     "choice1": "callof",
-     "choice2": "clash",
-     "choice3": "car",
-     "choice4": "gta",      
+     "answer": "asdasdasdasd",     
      "pic":"asdasdasdasdasd"
     },
     {
      "id": 3,
      "title": "mahmoud",
      "description": "asdasdasdasdasd",
-     "answer": 3,
-     "choice1": "callof",
-     "choice2": "clash",
-     "choice3": "car",
-     "choice4": "gta",      
+     "answer": "asdasdasdqw",     
      "pic":"asdasdasdasdasd"
     },
     {
      "id": 4,
      "title": "mahmoud",
      "description": "asdasdasdasdasd",
-     "answer": 4,
-     "choice1": "callof",
-     "choice2": "clash",
-     "choice3": "car",
-     "choice4": "gta",      
+     "answer": "asdasdasda",   
      "pic":"asdasdasdasdasd"
     }
   ]
